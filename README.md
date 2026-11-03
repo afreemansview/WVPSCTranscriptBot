@@ -64,7 +64,7 @@ A Cloudflare Pages site in `public/` with one Pages Function, `functions/api/ask
 
 After rebuilding the transcripts, refresh the site's data with `python3 pipeline/export_web.py` and commit `public/data/turns.json`.
 
-Local run: `npm install`, put `ANTHROPIC_API_KEY=...` in `.dev.vars` (gitignored), then `npm run dev` and open http://localhost:8788.
+Local run: `npm install`, put `ANTHROPIC_API_KEY=...` in `.dev.vars` (gitignored), then `npm run dev` (it fetches Wrangler on first use) and open http://localhost:8788.
 
 ## Known uncertainties
 

@@ -3,7 +3,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "wrangler pages dev public",
+    "dev": "npx wrangler@4.49.1 pages dev public",
     "typecheck": "tsc --noEmit",
     "export-data": "python3 pipeline/export_web.py"
   },
@@ -12,7 +12,6 @@
   },
   "devDependencies": {
     "@cloudflare/workers-types": "4.20251231.0",
-    "typescript": "5.9.3",
-    "wrangler": "4.49.1"
+    "typescript": "5.9.3"
   }
 }
