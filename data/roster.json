@@ -1,0 +1,242 @@
+{
+ "LANE": {
+  "name": "Chairman Charlotte Lane",
+  "role": "Chairman, Public Service Commission of West Virginia"
+ },
+ "LARRICK": {
+  "name": "Commissioner Renee Larrick",
+  "role": "Commissioner, PSC of West Virginia"
+ },
+ "RANEY": {
+  "name": "Commissioner Bill Raney",
+  "role": "Vice Chairman, PSC of West Virginia"
+ },
+ "CALLAS": {
+  "name": "Chris Callas",
+  "role": "Counsel for the applicant, NextEra Energy Transmission MidAtlantic (Jackson Kelly)"
+ },
+ "HANNAH": {
+  "name": "David Hannah",
+  "role": "Counsel for West Virginians Against Transmission Injustice (WV-ATI)"
+ },
+ "WILLIAMSON": {
+  "name": "Derrick Williamson",
+  "role": "Counsel for the West Virginia Energy Users Group (WVEUG)"
+ },
+ "GRUNMAN": {
+  "name": "Carrie Grunman",
+  "role": "Counsel for the West Virginia Energy Users Group (WVEUG)"
+ },
+ "HARKINS": {
+  "name": "Clayton Harkins",
+  "role": "Counsel for the Intervenor Group"
+ },
+ "MCGEE": {
+  "name": "John McGee",
+  "role": "Counsel for Lake of the Woods Club Homeowners Association"
+ },
+ "STEVENS": {
+  "name": "Bradley Stevens",
+  "role": "Counsel for the Hampshire, Mineral, Preston and Monongalia County Commissions and Ponderosa Pastures Corp."
+ },
+ "WILLIAMS": {
+  "name": "Robert Williams",
+  "role": "Director, Consumer Advocate Division"
+ },
+ "AUVIL": {
+  "name": "John (Consumer Advocate Division; surname unclear on recording)",
+  "role": "Consumer Advocate Division staff"
+ },
+ "WILSON": {
+  "name": "Victoria Wilson",
+  "role": "Counsel for PSC Staff"
+ },
+ "MCCORMACK": {
+  "name": "Kaitlin McCormick",
+  "role": "Witness for the applicant; Senior Director, NextEra Energy Transmission"
+ },
+ "COLLIE": {
+  "name": "Ryan Colley",
+  "role": "Witness for the applicant; Executive Director of Transmission Development, NextEra Energy Transmission"
+ },
+ "SALAM": {
+  "name": "Dr. Sami Abdulsalam",
+  "role": "Witness; Senior Director of Transmission Planning, PJM Interconnection"
+ },
+ "MHAYNES": {
+  "name": "Mark Haynes",
+  "role": "Intervenor, Hampshire County landowner"
+ },
+ "GUBER": {
+  "name": "Kristi Gruber",
+  "role": "Intervenor"
+ },
+ "KEVANS": {
+  "name": "Kevin Evans",
+  "role": "Intervenor, host landowner"
+ },
+ "SEVANS": {
+  "name": "Sarah Evans",
+  "role": "Intervenor, Hampshire County landowner"
+ },
+ "HOCKMAN": {
+  "name": "Bryan Hockman",
+  "role": "Intervenor, Hampshire County"
+ },
+ "INTERVENOR_A": {
+  "name": "Unnamed intervenor",
+  "role": "Intervenor, landowner (name not stated on the recording)"
+ },
+ "UNIDENTIFIED": {
+  "name": "Unidentified speaker",
+  "role": ""
+ },
+ "PRESLEY": {
+  "name": "Nicholas Presley",
+  "role": "Counsel for the applicant, NextEra Energy Transmission MidAtlantic (Jackson Kelly)"
+ },
+ "GLEDHILL": {
+  "name": "Andrew Gledhill",
+  "role": "Witness; Senior Manager of Resource Adequacy Planning, PJM Interconnection"
+ },
+ "HEATER": {
+  "name": "Heather Heater",
+  "role": "Witness for the applicant; Partner, Environmental Resources Management (ERM)"
+ },
+ "GIVENS": {
+  "name": "Philip Givens",
+  "role": "Witness for the applicant; Senior Transmission Project Engineering Manager, NextEra Energy Resources"
+ },
+ "HUNTER": {
+  "name": "Kent Hunter",
+  "role": "Intervenor, Monongalia County"
+ },
+ "BLANCATO": {
+  "name": "Linda Blancato",
+  "role": "Intervenor, adjacent landowner (remote appearance)"
+ },
+ "HEAD": {
+  "name": "Lucas Head",
+  "role": "PSC Staff"
+ },
+ "LEVANS": {
+  "name": "Myers Evans (once heard as \"Lance Evans\")",
+  "role": "Intervenor, Hampshire County landowner"
+ },
+ "BOYKIN": {
+  "name": "Matt Boykin",
+  "role": "Witness for the applicant; NextEra Energy Transmission (financing)"
+ },
+ "POWERS": {
+  "name": "Sarah Powers",
+  "role": "Witness for the applicant; Senior Director, NextEra Energy Transmission (land)"
+ },
+ "DESKINS": {
+  "name": "Dr. John Deskins",
+  "role": "Witness for the applicant; Director, WVU Bureau of Business and Economic Research"
+ },
+ "RENER": {
+  "name": "Kurt Rener (spelling unconfirmed)",
+  "role": "Counsel for the applicant (admitted pro hac vice)"
+ },
+ "ISRAEL": {
+  "name": "Dr. Mark Israel",
+  "role": "Witness for the applicant; EMF and cancer research"
+ },
+ "LEE": {
+  "name": "Dr. Nancy Lee",
+  "role": "Witness for the applicant; medical epidemiologist"
+ },
+ "OLLSON": {
+  "name": "Dr. Christopher Ollson",
+  "role": "Witness for the applicant; Ollson Environmental Health Management (noise, EMF and livestock)"
+ },
+ "MENHORN": {
+  "name": "Cynthia Menhorn",
+  "role": "Witness for the applicant; Vice President of Regulatory Services, MCR Performance Solutions"
+ },
+ "MAJOR": {
+  "name": "Mary Major",
+  "role": "Intervenor, Hampshire County"
+ },
+ "HINRICHS": {
+  "name": "Deborah Hinrichs",
+  "role": "Intervenor, Hampshire County"
+ },
+ "BROOKEALT": {
+  "name": "Donna Brooke-Alt",
+  "role": "Intervenor, Mineral County dairy farmer"
+ },
+ "WOTRING": {
+  "name": "John Wotring",
+  "role": "Intervenor, Hampshire County landowner"
+ },
+ "MARTENEY": {
+  "name": "William (Scott) Marteney",
+  "role": "Intervenor, Hampshire County host landowner"
+ },
+ "SMARTENEY": {
+  "name": "Susan Marteney",
+  "role": "Intervenor, Hampshire County host landowner"
+ },
+ "EGNATOFF": {
+  "name": "Daniel Egnatoff",
+  "role": "Witness for PSC Staff"
+ },
+ "RYAN": {
+  "name": "Ryan (Commission staff; surname not stated)",
+  "role": "Public Service Commission staff, managing remote participants"
+ },
+ "RIGGLEMAN": {
+  "name": "Linda Riggleman",
+  "role": "Intervenor"
+ },
+ "PEACEMAKER": {
+  "name": "Felicia Peacemaker",
+  "role": "Intervenor"
+ },
+ "MWILKINS": {
+  "name": "Michelle Wilkins",
+  "role": "Intervenor"
+ },
+ "GWILKINS": {
+  "name": "Greg Wilkins",
+  "role": "Intervenor"
+ },
+ "BROWN": {
+  "name": "Roger Brown",
+  "role": "Intervenor"
+ },
+ "CAMPBELL": {
+  "name": "Anthony Campbell",
+  "role": "President, West Virginians Against Transmission Injustice (WV-ATI), intervenor"
+ },
+ "KUNKEL": {
+  "name": "Catherine Kunkel",
+  "role": "Expert witness for West Virginians Against Transmission Injustice (WV-ATI)"
+ },
+ "MARKS": {
+  "name": "Garner Marks",
+  "role": "Counsel for WVEUG (name as heard)"
+ },
+ "CWILSON": {
+  "name": "Cynthia Wilson",
+  "role": "Counsel for Lake of the Woods (name as heard)"
+ },
+ "JMIER": {
+  "name": "Jacqueline Mier",
+  "role": "Intervenor (remote)"
+ },
+ "MTHOMAS": {
+  "name": "Maya Thomas (daughter of Charles Thomas; first name as heard)",
+  "role": "Intervenor (remote), speaking on behalf of Charles Thomas"
+ },
+ "HARPER": {
+  "name": "Ms. Harper (Commission staff; name as heard)",
+  "role": "Public Service Commission staff"
+ },
+ "CLOWER": {
+  "name": "Michael Clower",
+  "role": "Intervenor, Preston County landowner (remote)"
+ }
+}

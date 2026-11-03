@@ -1,0 +1,40 @@
+0||LANE
+1||RYAN
+2||LANE
+3||CLOWER
+3|Yes. Good morning.|LANE
+3|Not very well.|CLOWER
+4||LANE
+5||CLOWER
+6||RANEY
+7||CLOWER
+7|Yes. No, that's much better.|LANE
+8||CLOWER
+10|Right. And we need|LANE
+11||CLOWER
+11|Can you please raise|LANE
+12||LANE
+12|I do.|CLOWER
+13||LANE
+14||CLOWER
+41||LANE
+41|You're welcome, ma'am.|CLOWER
+42||LANE
+44||CLOWER
+48||LANE
+49||UNIDENTIFIED
+51||CLOWER
+62|No, that's fine.|UNIDENTIFIED
+65||CLOWER
+67|Okay. Well, thank you|UNIDENTIFIED
+68||LANE
+69||RANEY
+69|Yes. Yes. Go ahead|LANE
+70||RANEY
+73||LANE
+74||CLOWER
+74|Okay. Thank you.|LANE
+75||LANE
+76||RYAN
+77||LANE
+79||UNIDENTIFIED

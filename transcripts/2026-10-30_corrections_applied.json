@@ -1,0 +1,7 @@
+{
+ "\\b(\\d+) ?(KV|KB|kv)\\b": 2,
+ "\\bWii\\b": 2,
+ "\\b(Nexta|nexta|Nextera|Next Etera|next terara|Next era|next era)\\b": 1,
+ "\\b(next ?era|next etera|nexta|next air|dextera|nexter)\\b": 1,
+ "\\bRainey\\b": 1
+}

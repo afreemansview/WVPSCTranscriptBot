@@ -1,0 +1,1257 @@
+{
+ "meta": {
+  "title": "10.30.2026 Public Service Commission of WV Hearing Live Stream",
+  "hearing_date": "2026-10-30",
+  "day": 5,
+  "hearing_long": "Friday, October 30, 2026",
+  "case": "PSC of West Virginia evidentiary hearing, case number read on the record as 26-000075 (NextEra Energy Transmission MidAtlantic, Mid-Atlantic Resiliency Link (MARL) project)",
+  "source": "YouTube auto-captions (raw transcript supplied by user); text has caption errors corrected by inference, raw_text keeps the original caption wording",
+  "timestamps": "video playback position (H:MM:SS) in the hearing live stream"
+ },
+ "speakers": {
+  "LANE": {
+   "name": "Chairman Charlotte Lane",
+   "role": "Chairman, Public Service Commission of West Virginia"
+  },
+  "LARRICK": {
+   "name": "Commissioner Renee Larrick",
+   "role": "Commissioner, PSC of West Virginia"
+  },
+  "RANEY": {
+   "name": "Commissioner Bill Raney",
+   "role": "Vice Chairman, PSC of West Virginia"
+  },
+  "CALLAS": {
+   "name": "Chris Callas",
+   "role": "Counsel for the applicant, NextEra Energy Transmission MidAtlantic (Jackson Kelly)"
+  },
+  "HANNAH": {
+   "name": "David Hannah",
+   "role": "Counsel for West Virginians Against Transmission Injustice (WV-ATI)"
+  },
+  "WILLIAMSON": {
+   "name": "Derrick Williamson",
+   "role": "Counsel for the West Virginia Energy Users Group (WVEUG)"
+  },
+  "GRUNMAN": {
+   "name": "Carrie Grunman",
+   "role": "Counsel for the West Virginia Energy Users Group (WVEUG)"
+  },
+  "HARKINS": {
+   "name": "Clayton Harkins",
+   "role": "Counsel for the Intervenor Group"
+  },
+  "MCGEE": {
+   "name": "John McGee",
+   "role": "Counsel for Lake of the Woods Club Homeowners Association"
+  },
+  "STEVENS": {
+   "name": "Bradley Stevens",
+   "role": "Counsel for the Hampshire, Mineral, Preston and Monongalia County Commissions and Ponderosa Pastures Corp."
+  },
+  "WILLIAMS": {
+   "name": "Robert Williams",
+   "role": "Director, Consumer Advocate Division"
+  },
+  "AUVIL": {
+   "name": "John (Consumer Advocate Division; surname unclear on recording)",
+   "role": "Consumer Advocate Division staff"
+  },
+  "WILSON": {
+   "name": "Victoria Wilson",
+   "role": "Counsel for PSC Staff"
+  },
+  "MCCORMACK": {
+   "name": "Kaitlin McCormick",
+   "role": "Witness for the applicant; Senior Director, NextEra Energy Transmission"
+  },
+  "COLLIE": {
+   "name": "Ryan Colley",
+   "role": "Witness for the applicant; Executive Director of Transmission Development, NextEra Energy Transmission"
+  },
+  "SALAM": {
+   "name": "Dr. Sami Abdulsalam",
+   "role": "Witness; Senior Director of Transmission Planning, PJM Interconnection"
+  },
+  "MHAYNES": {
+   "name": "Mark Haynes",
+   "role": "Intervenor, Hampshire County landowner"
+  },
+  "GUBER": {
+   "name": "Kristi Gruber",
+   "role": "Intervenor"
+  },
+  "KEVANS": {
+   "name": "Kevin Evans",
+   "role": "Intervenor, host landowner"
+  },
+  "SEVANS": {
+   "name": "Sarah Evans",
+   "role": "Intervenor, Hampshire County landowner"
+  },
+  "HOCKMAN": {
+   "name": "Bryan Hockman",
+   "role": "Intervenor, Hampshire County"
+  },
+  "INTERVENOR_A": {
+   "name": "Unnamed intervenor",
+   "role": "Intervenor, landowner (name not stated on the recording)"
+  },
+  "UNIDENTIFIED": {
+   "name": "Unidentified speaker",
+   "role": ""
+  },
+  "PRESLEY": {
+   "name": "Nicholas Presley",
+   "role": "Counsel for the applicant, NextEra Energy Transmission MidAtlantic (Jackson Kelly)"
+  },
+  "GLEDHILL": {
+   "name": "Andrew Gledhill",
+   "role": "Witness; Senior Manager of Resource Adequacy Planning, PJM Interconnection"
+  },
+  "HEATER": {
+   "name": "Heather Heater",
+   "role": "Witness for the applicant; Partner, Environmental Resources Management (ERM)"
+  },
+  "GIVENS": {
+   "name": "Philip Givens",
+   "role": "Witness for the applicant; Senior Transmission Project Engineering Manager, NextEra Energy Resources"
+  },
+  "HUNTER": {
+   "name": "Kent Hunter",
+   "role": "Intervenor, Monongalia County"
+  },
+  "BLANCATO": {
+   "name": "Linda Blancato",
+   "role": "Intervenor, adjacent landowner (remote appearance)"
+  },
+  "HEAD": {
+   "name": "Lucas Head",
+   "role": "PSC Staff"
+  },
+  "LEVANS": {
+   "name": "Myers Evans (once heard as \"Lance Evans\")",
+   "role": "Intervenor, Hampshire County landowner"
+  },
+  "BOYKIN": {
+   "name": "Matt Boykin",
+   "role": "Witness for the applicant; NextEra Energy Transmission (financing)"
+  },
+  "POWERS": {
+   "name": "Sarah Powers",
+   "role": "Witness for the applicant; Senior Director, NextEra Energy Transmission (land)"
+  },
+  "DESKINS": {
+   "name": "Dr. John Deskins",
+   "role": "Witness for the applicant; Director, WVU Bureau of Business and Economic Research"
+  },
+  "RENER": {
+   "name": "Kurt Rener (spelling unconfirmed)",
+   "role": "Counsel for the applicant (admitted pro hac vice)"
+  },
+  "ISRAEL": {
+   "name": "Dr. Mark Israel",
+   "role": "Witness for the applicant; EMF and cancer research"
+  },
+  "LEE": {
+   "name": "Dr. Nancy Lee",
+   "role": "Witness for the applicant; medical epidemiologist"
+  },
+  "OLLSON": {
+   "name": "Dr. Christopher Ollson",
+   "role": "Witness for the applicant; Ollson Environmental Health Management (noise, EMF and livestock)"
+  },
+  "MENHORN": {
+   "name": "Cynthia Menhorn",
+   "role": "Witness for the applicant; Vice President of Regulatory Services, MCR Performance Solutions"
+  },
+  "MAJOR": {
+   "name": "Mary Major",
+   "role": "Intervenor, Hampshire County"
+  },
+  "HINRICHS": {
+   "name": "Deborah Hinrichs",
+   "role": "Intervenor, Hampshire County"
+  },
+  "BROOKEALT": {
+   "name": "Donna Brooke-Alt",
+   "role": "Intervenor, Mineral County dairy farmer"
+  },
+  "WOTRING": {
+   "name": "John Wotring",
+   "role": "Intervenor, Hampshire County landowner"
+  },
+  "MARTENEY": {
+   "name": "William (Scott) Marteney",
+   "role": "Intervenor, Hampshire County host landowner"
+  },
+  "SMARTENEY": {
+   "name": "Susan Marteney",
+   "role": "Intervenor, Hampshire County host landowner"
+  },
+  "EGNATOFF": {
+   "name": "Daniel Egnatoff",
+   "role": "Witness for PSC Staff"
+  },
+  "RYAN": {
+   "name": "Ryan (Commission staff; surname not stated)",
+   "role": "Public Service Commission staff, managing remote participants"
+  },
+  "RIGGLEMAN": {
+   "name": "Linda Riggleman",
+   "role": "Intervenor"
+  },
+  "PEACEMAKER": {
+   "name": "Felicia Peacemaker",
+   "role": "Intervenor"
+  },
+  "MWILKINS": {
+   "name": "Michelle Wilkins",
+   "role": "Intervenor"
+  },
+  "GWILKINS": {
+   "name": "Greg Wilkins",
+   "role": "Intervenor"
+  },
+  "BROWN": {
+   "name": "Roger Brown",
+   "role": "Intervenor"
+  },
+  "CAMPBELL": {
+   "name": "Anthony Campbell",
+   "role": "President, West Virginians Against Transmission Injustice (WV-ATI), intervenor"
+  },
+  "KUNKEL": {
+   "name": "Catherine Kunkel",
+   "role": "Expert witness for West Virginians Against Transmission Injustice (WV-ATI)"
+  },
+  "MARKS": {
+   "name": "Garner Marks",
+   "role": "Counsel for WVEUG (name as heard)"
+  },
+  "CWILSON": {
+   "name": "Cynthia Wilson",
+   "role": "Counsel for Lake of the Woods (name as heard)"
+  },
+  "JMIER": {
+   "name": "Jacqueline Mier",
+   "role": "Intervenor (remote)"
+  },
+  "MTHOMAS": {
+   "name": "Maya Thomas (daughter of Charles Thomas; first name as heard)",
+   "role": "Intervenor (remote), speaking on behalf of Charles Thomas"
+  },
+  "HARPER": {
+   "name": "Ms. Harper (Commission staff; name as heard)",
+   "role": "Public Service Commission staff"
+  },
+  "CLOWER": {
+   "name": "Michael Clower",
+   "role": "Intervenor, Preston County landowner (remote)"
+  }
+ },
+ "turns": [
+  {
+   "speaker_id": "LANE",
+   "speaker": "Chairman Charlotte Lane",
+   "role": "Chairman, Public Service Commission of West Virginia",
+   "t": "7:40",
+   "sec": 460,
+   "raw_text": "It's a little early, but it looks to me as if everyone is here that's supposed to be here. So, why don't we try to get Mr. Clower on",
+   "lines": [
+    {
+     "t": "7:40",
+     "sec": 460,
+     "text": "It's a little early, but it looks to me as if everyone is here that's supposed to be here. So, why don't we try to get Mr. Clower on",
+     "raw_text": "It's a little early, but it looks to me as if everyone is here that's supposed to be here. So, why don't we try to get Mr. Clower on"
+    }
+   ],
+   "turn": 1,
+   "text": "It's a little early, but it looks to me as if everyone is here that's supposed to be here. So, why don't we try to get Mr. Clower on"
+  },
+  {
+   "speaker_id": "RYAN",
+   "speaker": "Ryan (Commission staff; surname not stated)",
+   "role": "Public Service Commission staff, managing remote participants",
+   "t": "7:50",
+   "sec": 470,
+   "raw_text": "I I believe it looks like he is unmuted now.",
+   "lines": [
+    {
+     "t": "7:50",
+     "sec": 470,
+     "text": "I I believe it looks like he is unmuted now.",
+     "raw_text": "I I believe it looks like he is unmuted now."
+    }
+   ],
+   "turn": 2,
+   "text": "I I believe it looks like he is unmuted now."
+  },
+  {
+   "speaker_id": "LANE",
+   "speaker": "Chairman Charlotte Lane",
+   "role": "Chairman, Public Service Commission of West Virginia",
+   "t": "7:56",
+   "sec": 476,
+   "raw_text": "Good morning. Can you hear me, Mr. Clower?",
+   "lines": [
+    {
+     "t": "7:56",
+     "sec": 476,
+     "text": "Good morning. Can you hear me, Mr. Clower?",
+     "raw_text": "Good morning. Can you hear me, Mr. Clower?"
+    }
+   ],
+   "turn": 3,
+   "text": "Good morning. Can you hear me, Mr. Clower?"
+  },
+  {
+   "speaker_id": "CLOWER",
+   "speaker": "Michael Clower",
+   "role": "Intervenor, Preston County landowner (remote)",
+   "t": "8:06",
+   "sec": 486,
+   "raw_text": "Can you hear me?",
+   "lines": [
+    {
+     "t": "8:06",
+     "sec": 486,
+     "text": "Can you hear me?",
+     "raw_text": "Can you hear me?"
+    }
+   ],
+   "turn": 4,
+   "text": "Can you hear me?"
+  },
+  {
+   "speaker_id": "LANE",
+   "speaker": "Chairman Charlotte Lane",
+   "role": "Chairman, Public Service Commission of West Virginia",
+   "t": "8:06",
+   "sec": 486,
+   "raw_text": "Yes. Good morning. Can you hear me?",
+   "lines": [
+    {
+     "t": "8:06",
+     "sec": 486,
+     "text": "Yes. Good morning. Can you hear me?",
+     "raw_text": "Yes. Good morning. Can you hear me?"
+    }
+   ],
+   "turn": 5,
+   "text": "Yes. Good morning. Can you hear me?"
+  },
+  {
+   "speaker_id": "CLOWER",
+   "speaker": "Michael Clower",
+   "role": "Intervenor, Preston County landowner (remote)",
+   "t": "8:06",
+   "sec": 486,
+   "raw_text": "Not very well. Oh, boy.",
+   "lines": [
+    {
+     "t": "8:06",
+     "sec": 486,
+     "text": "Not very well. Oh, boy.",
+     "raw_text": "Not very well. Oh, boy."
+    }
+   ],
+   "turn": 6,
+   "text": "Not very well. Oh, boy."
+  },
+  {
+   "speaker_id": "LANE",
+   "speaker": "Chairman Charlotte Lane",
+   "role": "Chairman, Public Service Commission of West Virginia",
+   "t": "8:14",
+   "sec": 494,
+   "raw_text": "Um, can you get closer to your microphone?",
+   "lines": [
+    {
+     "t": "8:14",
+     "sec": 494,
+     "text": "Um, can you get closer to your microphone?",
+     "raw_text": "Um, can you get closer to your microphone?"
+    }
+   ],
+   "turn": 7,
+   "text": "Um, can you get closer to your microphone?"
+  },
+  {
+   "speaker_id": "CLOWER",
+   "speaker": "Michael Clower",
+   "role": "Intervenor, Preston County landowner (remote)",
+   "t": "8:22",
+   "sec": 502,
+   "raw_text": "I'll try, madam. There, that's better.",
+   "lines": [
+    {
+     "t": "8:22",
+     "sec": 502,
+     "text": "I'll try, madam. There, that's better.",
+     "raw_text": "I'll try, madam. There, that's better."
+    }
+   ],
+   "turn": 8,
+   "text": "I'll try, madam. There, that's better."
+  },
+  {
+   "speaker_id": "RANEY",
+   "speaker": "Commissioner Bill Raney",
+   "role": "Vice Chairman, PSC of West Virginia",
+   "t": "8:26",
+   "sec": 506,
+   "raw_text": "I can Mr. Clower, I can hear you very well. I'm also remoted, so I don't know exactly where the breakdown is.",
+   "lines": [
+    {
+     "t": "8:26",
+     "sec": 506,
+     "text": "I can Mr. Clower, I can hear you very well. I'm also remoted, so I don't know exactly where the breakdown is.",
+     "raw_text": "I can Mr. Clower, I can hear you very well. I'm also remoted, so I don't know exactly where the breakdown is."
+    }
+   ],
+   "turn": 9,
+   "text": "I can Mr. Clower, I can hear you very well. I'm also remoted, so I don't know exactly where the breakdown is."
+  },
+  {
+   "speaker_id": "CLOWER",
+   "speaker": "Michael Clower",
+   "role": "Intervenor, Preston County landowner (remote)",
+   "t": "8:33",
+   "sec": 513,
+   "raw_text": "Well, uh, can you hear me better now or not?",
+   "lines": [
+    {
+     "t": "8:33",
+     "sec": 513,
+     "text": "Well, uh, can you hear me better now or not?",
+     "raw_text": "Well, uh, can you hear me better now or not?"
+    }
+   ],
+   "turn": 10,
+   "text": "Well, uh, can you hear me better now or not?"
+  },
+  {
+   "speaker_id": "LANE",
+   "speaker": "Chairman Charlotte Lane",
+   "role": "Chairman, Public Service Commission of West Virginia",
+   "t": "8:33",
+   "sec": 513,
+   "raw_text": "Yes. No, that's much better.",
+   "lines": [
+    {
+     "t": "8:33",
+     "sec": 513,
+     "text": "Yes. No, that's much better.",
+     "raw_text": "Yes. No, that's much better."
+    }
+   ],
+   "turn": 11,
+   "text": "Yes. No, that's much better."
+  },
+  {
+   "speaker_id": "CLOWER",
+   "speaker": "Michael Clower",
+   "role": "Intervenor, Preston County landowner (remote)",
+   "t": "8:39",
+   "sec": 519,
+   "raw_text": "Okay, good. I might have moved two feet, so forgive me and I apologize for yesterday, but uh I think my my AI lady was on break or something that to help me. But anyway, my name is Michael Clower, spelled C L O W E R.",
+   "lines": [
+    {
+     "t": "8:39",
+     "sec": 519,
+     "text": "Okay, good. I might have moved two feet, so forgive me and I apologize for yesterday, but uh I think my my AI lady",
+     "raw_text": "Okay, good. I might have moved two feet, so forgive me and I apologize for yesterday, but uh I think my my AI lady"
+    },
+    {
+     "t": "8:48",
+     "sec": 528,
+     "text": "was on break or something that to help me.",
+     "raw_text": "was on break or something that to help me."
+    },
+    {
+     "t": "8:53",
+     "sec": 533,
+     "text": "But anyway, my name is Michael Clower, spelled C L O W E R.",
+     "raw_text": "But anyway, my name is Michael Clower, spelled C L O W E R."
+    }
+   ],
+   "turn": 12,
+   "text": "Okay, good. I might have moved two feet, so forgive me and I apologize for yesterday, but uh I think my my AI lady was on break or something that to help me. But anyway, my name is Michael Clower, spelled C L O W E R."
+  },
+  {
+   "speaker_id": "LANE",
+   "speaker": "Chairman Charlotte Lane",
+   "role": "Chairman, Public Service Commission of West Virginia",
+   "t": "8:53",
+   "sec": 533,
+   "raw_text": "Right. And we need to swear you in.",
+   "lines": [
+    {
+     "t": "8:53",
+     "sec": 533,
+     "text": "Right. And we need to swear you in.",
+     "raw_text": "Right. And we need to swear you in."
+    }
+   ],
+   "turn": 13,
+   "text": "Right. And we need to swear you in."
+  },
+  {
+   "speaker_id": "CLOWER",
+   "speaker": "Michael Clower",
+   "role": "Intervenor, Preston County landowner (remote)",
+   "t": "9:02",
+   "sec": 542,
+   "raw_text": "Okay. Go right ahead.",
+   "lines": [
+    {
+     "t": "9:02",
+     "sec": 542,
+     "text": "Okay. Go right ahead.",
+     "raw_text": "Okay. Go right ahead."
+    }
+   ],
+   "turn": 14,
+   "text": "Okay. Go right ahead."
+  },
+  {
+   "speaker_id": "LANE",
+   "speaker": "Chairman Charlotte Lane",
+   "role": "Chairman, Public Service Commission of West Virginia",
+   "t": "9:02",
+   "sec": 542,
+   "raw_text": "Can you please raise your right hand? Do you swear or affirm to tell the truth, the whole truth, and nothing but the truth during your testimony today?",
+   "lines": [
+    {
+     "t": "9:02",
+     "sec": 542,
+     "text": "Can you please raise your right hand?",
+     "raw_text": "Can you please raise your right hand?"
+    },
+    {
+     "t": "9:06",
+     "sec": 546,
+     "text": "Do you swear or affirm to tell the truth, the whole truth, and nothing but the truth during your testimony today?",
+     "raw_text": "Do you swear or affirm to tell the truth, the whole truth, and nothing but the truth during your testimony today?"
+    }
+   ],
+   "turn": 15,
+   "text": "Can you please raise your right hand? Do you swear or affirm to tell the truth, the whole truth, and nothing but the truth during your testimony today?"
+  },
+  {
+   "speaker_id": "CLOWER",
+   "speaker": "Michael Clower",
+   "role": "Intervenor, Preston County landowner (remote)",
+   "t": "9:06",
+   "sec": 546,
+   "raw_text": "I do.",
+   "lines": [
+    {
+     "t": "9:06",
+     "sec": 546,
+     "text": "I do.",
+     "raw_text": "I do."
+    }
+   ],
+   "turn": 16,
+   "text": "I do."
+  },
+  {
+   "speaker_id": "LANE",
+   "speaker": "Chairman Charlotte Lane",
+   "role": "Chairman, Public Service Commission of West Virginia",
+   "t": "9:15",
+   "sec": 555,
+   "raw_text": "Okay. Proceed, Mr. Clower.",
+   "lines": [
+    {
+     "t": "9:15",
+     "sec": 555,
+     "text": "Okay. Proceed, Mr. Clower.",
+     "raw_text": "Okay. Proceed, Mr. Clower."
+    }
+   ],
+   "turn": 17,
+   "text": "Okay. Proceed, Mr. Clower."
+  },
+  {
+   "speaker_id": "CLOWER",
+   "speaker": "Michael Clower",
+   "role": "Intervenor, Preston County landowner (remote)",
+   "t": "9:17",
+   "sec": 557,
+   "raw_text": "Okay. I I am a land owner affected by the high voltage transmission lines in Preston County. I'm uh was raised in Hampshire County in Romney, West Virginia. And I moved up here about 25 going on 26 years ago. I've served in the US Army for six years in Europe during the Cold War. I've worked 46 years in the heavy equipment industry for 36 years in I was a heavy equipment uh owner. And anyway, uh I'll try to make this short and sweet because I know you guys want to get home today. Uh I had my house for sale oh for about nine months during this period which started a year and a half ago when we received that little card in the mail and u uh we did not get any takers. We had a lot of people interested but soon as we told them about the high voltage transmission lines they backed out. Uh, the other thing is, um, I make hay on my property. I sell it. I've have I got animals. Um, and that's going to be interrupted by this because they want to put two towers on my property and it's right in my hay fields. Um, let's see. We have a pond and the way that they're saying that those lines would go directly over my pond which I have neighbor kids that come down fishing and we have you know we do recreational things there. But the one thing that concerns me and I've really never heard anybody talk about is how you put a value on your mineral rights. And I I'll try to keep it going here. Uh my question would be too, and I've never heard it answered, is seems like uh Next Air doesn't really give me a straight answer on it. Why can't they go underground? And I know it'd be more costly, but you know, the uh gas lines, they do that every day. Uh, I'm 3,200 feet off the main row. My lines are underground. And if you Google high voltage lines in Europe, they go up to 500 KV underground. And the other thing is uh through all this through all this this has been a lot of physical and mental stress on me. Can't sleep well. I it's not your problem. But I just want you all to know this. I'm just one person and I'm sure there's others out there that that it that that is affected also. Um and uh and the last thing is how do you put a value on my life? You know, I retired here. Uh we have for doing a wonderful job this week. I've been listening in. I was here Monday and I want to thank the Wii group also and the lawyers even though I thought they were speaking in tongues a couple areas but anyway I want to thank the commissioner and the great job you guys have done in protecting us.",
+   "lines": [
+    {
+     "t": "9:17",
+     "sec": 557,
+     "text": "Okay. I I am a land owner affected by the high voltage transmission lines in Preston County. I'm uh was raised in",
+     "raw_text": "Okay. I I am a land owner affected by the high voltage transmission lines in Preston County. I'm uh was raised in"
+    },
+    {
+     "t": "9:27",
+     "sec": 567,
+     "text": "Hampshire County in Romney, West Virginia. And I moved up here about 25 going on 26 years ago. I've served in",
+     "raw_text": "Hampshire County in Romney, West Virginia. And I moved up here about 25 going on 26 years ago. I've served in"
+    },
+    {
+     "t": "9:35",
+     "sec": 575,
+     "text": "the US Army for six years in Europe during the Cold War.",
+     "raw_text": "the US Army for six years in Europe during the Cold War."
+    },
+    {
+     "t": "9:41",
+     "sec": 581,
+     "text": "I've worked 46 years in the heavy equipment industry",
+     "raw_text": "I've worked 46 years in the heavy equipment industry"
+    },
+    {
+     "t": "9:47",
+     "sec": 587,
+     "text": "for 36 years in I was a heavy equipment uh owner. And anyway, uh I'll try to",
+     "raw_text": "for 36 years in I was a heavy equipment uh owner. And anyway, uh I'll try to"
+    },
+    {
+     "t": "9:58",
+     "sec": 598,
+     "text": "make this short and sweet because I know you guys want to get home today. Uh",
+     "raw_text": "make this short and sweet because I know you guys want to get home today. Uh"
+    },
+    {
+     "t": "10:04",
+     "sec": 604,
+     "text": "I had my house for sale oh for about nine months during this period which started a year and a half ago when we",
+     "raw_text": "I had my house for sale oh for about nine months during this period which started a year and a half ago when we"
+    },
+    {
+     "t": "10:13",
+     "sec": 613,
+     "text": "received that little card in the mail and u uh we did not get any takers. We",
+     "raw_text": "received that little card in the mail and u uh we did not get any takers. We"
+    },
+    {
+     "t": "10:20",
+     "sec": 620,
+     "text": "had a lot of people interested but soon as we told them about the high voltage transmission lines they backed out. Uh,",
+     "raw_text": "had a lot of people interested but soon as we told them about the high voltage transmission lines they backed out. Uh,"
+    },
+    {
+     "t": "10:27",
+     "sec": 627,
+     "text": "the other thing is, um, I make hay on my property. I sell it.",
+     "raw_text": "the other thing is, um, I make hay on my property. I sell it."
+    },
+    {
+     "t": "10:34",
+     "sec": 634,
+     "text": "I've have I got animals. Um, and that's going to be interrupted by this because they want to put two towers",
+     "raw_text": "I've have I got animals. Um, and that's going to be interrupted by this because they want to put two towers"
+    },
+    {
+     "t": "10:42",
+     "sec": 642,
+     "text": "on my property and it's right in my hay fields. Um, let's see. We have a pond and the way",
+     "raw_text": "on my property and it's right in my hay fields. Um, let's see. We have a pond and the way"
+    },
+    {
+     "t": "10:50",
+     "sec": 650,
+     "text": "that they're saying that those lines would go directly over my pond which I have neighbor kids that come down fishing and we have you know we do",
+     "raw_text": "that they're saying that those lines would go directly over my pond which I have neighbor kids that come down fishing and we have you know we do"
+    },
+    {
+     "t": "10:59",
+     "sec": 659,
+     "text": "recreational things there. But the one thing that concerns me and I've really never heard anybody talk about is how you put a value on your mineral rights.",
+     "raw_text": "recreational things there. But the one thing that concerns me and I've really never heard anybody talk about is how you put a value on your mineral rights."
+    },
+    {
+     "t": "11:10",
+     "sec": 670,
+     "text": "And I I'll try to keep it going here.",
+     "raw_text": "And I I'll try to keep it going here."
+    },
+    {
+     "t": "11:17",
+     "sec": 677,
+     "text": "Uh my question would be too, and I've never heard it answered, is seems like uh Next",
+     "raw_text": "Uh my question would be too, and I've never heard it answered, is seems like uh Next"
+    },
+    {
+     "t": "11:26",
+     "sec": 686,
+     "text": "Air doesn't really give me a straight answer on it. Why can't they go underground?",
+     "raw_text": "Air doesn't really give me a straight answer on it. Why can't they go underground?"
+    },
+    {
+     "t": "11:32",
+     "sec": 692,
+     "text": "And I know it'd be more costly, but you know, the uh gas lines, they do that every day. Uh, I'm 3,200 feet off the",
+     "raw_text": "And I know it'd be more costly, but you know, the uh gas lines, they do that every day. Uh, I'm 3,200 feet off the"
+    },
+    {
+     "t": "11:41",
+     "sec": 701,
+     "text": "main row. My lines are underground. And if you Google high voltage lines in",
+     "raw_text": "main row. My lines are underground. And if you Google high voltage lines in"
+    },
+    {
+     "t": "11:48",
+     "sec": 708,
+     "text": "Europe, they go up to 500 kV underground.",
+     "raw_text": "Europe, they go up to 500 KV underground."
+    },
+    {
+     "t": "11:53",
+     "sec": 713,
+     "text": "And the other thing is uh through all this through all this this has been a lot of physical and mental stress on me.",
+     "raw_text": "And the other thing is uh through all this through all this this has been a lot of physical and mental stress on me."
+    },
+    {
+     "t": "12:06",
+     "sec": 726,
+     "text": "Can't sleep well. I it's not your problem. But I just want you all to know this. I'm just one person and I'm sure there's others out there that that it that that is affected also.",
+     "raw_text": "Can't sleep well. I it's not your problem. But I just want you all to know this. I'm just one person and I'm sure there's others out there that that it that that is affected also."
+    },
+    {
+     "t": "12:17",
+     "sec": 737,
+     "text": "Um and uh and the last thing is how do you put a value on my life?",
+     "raw_text": "Um and uh and the last thing is how do you put a value on my life?"
+    },
+    {
+     "t": "12:26",
+     "sec": 746,
+     "text": "You know, I retired here. Uh we have",
+     "raw_text": "You know, I retired here. Uh we have"
+    },
+    {
+     "t": "12:40",
+     "sec": 760,
+     "text": "for doing a wonderful job this week.",
+     "raw_text": "for doing a wonderful job this week."
+    },
+    {
+     "t": "12:42",
+     "sec": 762,
+     "text": "I've been listening in. I was here Monday and I want to thank the WATI group also and the lawyers even though I",
+     "raw_text": "I've been listening in. I was here Monday and I want to thank the Wii group also and the lawyers even though I"
+    },
+    {
+     "t": "12:49",
+     "sec": 769,
+     "text": "thought they were speaking in tongues a couple areas but anyway I want to thank the commissioner and the great job you guys have done in protecting us.",
+     "raw_text": "thought they were speaking in tongues a couple areas but anyway I want to thank the commissioner and the great job you guys have done in protecting us."
+    }
+   ],
+   "turn": 18,
+   "text": "Okay. I I am a land owner affected by the high voltage transmission lines in Preston County. I'm uh was raised in Hampshire County in Romney, West Virginia. And I moved up here about 25 going on 26 years ago. I've served in the US Army for six years in Europe during the Cold War. I've worked 46 years in the heavy equipment industry for 36 years in I was a heavy equipment uh owner. And anyway, uh I'll try to make this short and sweet because I know you guys want to get home today. Uh I had my house for sale oh for about nine months during this period which started a year and a half ago when we received that little card in the mail and u uh we did not get any takers. We had a lot of people interested but soon as we told them about the high voltage transmission lines they backed out. Uh, the other thing is, um, I make hay on my property. I sell it. I've have I got animals. Um, and that's going to be interrupted by this because they want to put two towers on my property and it's right in my hay fields. Um, let's see. We have a pond and the way that they're saying that those lines would go directly over my pond which I have neighbor kids that come down fishing and we have you know we do recreational things there. But the one thing that concerns me and I've really never heard anybody talk about is how you put a value on your mineral rights. And I I'll try to keep it going here. Uh my question would be too, and I've never heard it answered, is seems like uh NextEra doesn't really give me a straight answer on it. Why can't they go underground? And I know it'd be more costly, but you know, the uh gas lines, they do that every day. Uh, I'm 3,200 feet off the main row. My lines are underground. And if you Google high voltage lines in Europe, they go up to 500 kV underground. And the other thing is uh through all this through all this this has been a lot of physical and mental stress on me. Can't sleep well. I it's not your problem. But I just want you all to know this. I'm just one person and I'm sure there's others out there that that it that that is affected also. Um and uh and the last thing is how do you put a value on my life? You know, I retired here. Uh we have for doing a wonderful job this week. I've been listening in. I was here Monday and I want to thank the WATI group also and the lawyers even though I thought they were speaking in tongues a couple areas but anyway I want to thank the commissioner and the great job you guys have done in protecting us."
+  },
+  {
+   "speaker_id": "LANE",
+   "speaker": "Chairman Charlotte Lane",
+   "role": "Chairman, Public Service Commission of West Virginia",
+   "t": "13:02",
+   "sec": 782,
+   "raw_text": "Okay. Thank you, Mr. Clower.",
+   "lines": [
+    {
+     "t": "13:02",
+     "sec": 782,
+     "text": "Okay. Thank you, Mr. Clower.",
+     "raw_text": "Okay. Thank you, Mr. Clower."
+    }
+   ],
+   "turn": 19,
+   "text": "Okay. Thank you, Mr. Clower."
+  },
+  {
+   "speaker_id": "CLOWER",
+   "speaker": "Michael Clower",
+   "role": "Intervenor, Preston County landowner (remote)",
+   "t": "13:02",
+   "sec": 782,
+   "raw_text": "You're welcome, ma'am.",
+   "lines": [
+    {
+     "t": "13:02",
+     "sec": 782,
+     "text": "You're welcome, ma'am.",
+     "raw_text": "You're welcome, ma'am."
+    }
+   ],
+   "turn": 20,
+   "text": "You're welcome, ma'am."
+  },
+  {
+   "speaker_id": "LANE",
+   "speaker": "Chairman Charlotte Lane",
+   "role": "Chairman, Public Service Commission of West Virginia",
+   "t": "13:06",
+   "sec": 786,
+   "raw_text": "Mr. Clower, have you talked to the next era people about trying to uh rroot the line uh someplace better better on your property?",
+   "lines": [
+    {
+     "t": "13:06",
+     "sec": 786,
+     "text": "Mr. Clower, have you talked to the NextEra people about trying to uh rroot the line",
+     "raw_text": "Mr. Clower, have you talked to the next era people about trying to uh rroot the line"
+    },
+    {
+     "t": "13:15",
+     "sec": 795,
+     "text": "uh someplace better better on your property?",
+     "raw_text": "uh someplace better better on your property?"
+    }
+   ],
+   "turn": 21,
+   "text": "Mr. Clower, have you talked to the NextEra people about trying to uh rroot the line uh someplace better better on your property?"
+  },
+  {
+   "speaker_id": "CLOWER",
+   "speaker": "Michael Clower",
+   "role": "Intervenor, Preston County landowner (remote)",
+   "t": "13:20",
+   "sec": 800,
+   "raw_text": "Yes, I have. And it seems like they don't want to stay out of my hayfield. And there would be two towers in my hayfield. And I don't I've only got 27.31 acres. So, it's not like I have a lot of acreage and um so it very disturbing and uh be honest with you don't know what to do about it and it's been very hard on our family.",
+   "lines": [
+    {
+     "t": "13:20",
+     "sec": 800,
+     "text": "Yes, I have. And it seems like they don't want to stay out of my hayfield.",
+     "raw_text": "Yes, I have. And it seems like they don't want to stay out of my hayfield."
+    },
+    {
+     "t": "13:26",
+     "sec": 806,
+     "text": "And there would be two towers in my hayfield. And I don't I've only got 27.31 acres. So, it's not like I have a",
+     "raw_text": "And there would be two towers in my hayfield. And I don't I've only got 27.31 acres. So, it's not like I have a"
+    },
+    {
+     "t": "13:33",
+     "sec": 813,
+     "text": "lot of acreage and um so it very disturbing and uh",
+     "raw_text": "lot of acreage and um so it very disturbing and uh"
+    },
+    {
+     "t": "13:41",
+     "sec": 821,
+     "text": "be honest with you don't know what to do about it and it's been very hard on our family.",
+     "raw_text": "be honest with you don't know what to do about it and it's been very hard on our family."
+    }
+   ],
+   "turn": 22,
+   "text": "Yes, I have. And it seems like they don't want to stay out of my hayfield. And there would be two towers in my hayfield. And I don't I've only got 27.31 acres. So, it's not like I have a lot of acreage and um so it very disturbing and uh be honest with you don't know what to do about it and it's been very hard on our family."
+  },
+  {
+   "speaker_id": "LANE",
+   "speaker": "Chairman Charlotte Lane",
+   "role": "Chairman, Public Service Commission of West Virginia",
+   "t": "13:50",
+   "sec": 830,
+   "raw_text": "Okay. Thank you. Are there any questions of this witness?",
+   "lines": [
+    {
+     "t": "13:50",
+     "sec": 830,
+     "text": "Okay. Thank you. Are there any questions of this witness?",
+     "raw_text": "Okay. Thank you. Are there any questions of this witness?"
+    }
+   ],
+   "turn": 23,
+   "text": "Okay. Thank you. Are there any questions of this witness?"
+  },
+  {
+   "speaker_id": "UNIDENTIFIED",
+   "speaker": "Unidentified speaker",
+   "role": "",
+   "t": "13:57",
+   "sec": 837,
+   "raw_text": "I think I just have one quick question. And um do you have any transmission lines that are near your property now or is this",
+   "lines": [
+    {
+     "t": "13:57",
+     "sec": 837,
+     "text": "I think I just have one quick question.",
+     "raw_text": "I think I just have one quick question."
+    },
+    {
+     "t": "13:59",
+     "sec": 839,
+     "text": "And um do you have any transmission lines that are near your property now or is this",
+     "raw_text": "And um do you have any transmission lines that are near your property now or is this"
+    }
+   ],
+   "turn": 24,
+   "text": "I think I just have one quick question. And um do you have any transmission lines that are near your property now or is this"
+  },
+  {
+   "speaker_id": "CLOWER",
+   "speaker": "Michael Clower",
+   "role": "Intervenor, Preston County landowner (remote)",
+   "t": "14:07",
+   "sec": 847,
+   "raw_text": "Yes, I Yes, I do. I have one tower on my property right now and the configuration that they want to do uh is to be so many feet away from this tower and then they want to go at an angle which uh understand that requires a special type tower I understand and then shoot up into my upper six acres which would be another tower and the way it is right now I wouldn't be able to use my property whatsoever. Now, they say, you know, 500 KV, and I've been studying a little bit online. Google knows everything, but you know, they say there's no health risk there. But, you know, if you really get into that, you know, it's affected cattle, it's affected, you know, if it's true. That's the bottom line. I think through all of this with next and they wasn't clear. Nobody had a a clear mind and it seemed like we got so many hearsays and you know everybody had an opinion and um you know it's just just it's wrong. It's wrong. You know I served in the military. I knew who the enemy was. I come back home and my the enemy is my fellow citizens. I'm sorry to ramble on.",
+   "lines": [
+    {
+     "t": "14:07",
+     "sec": 847,
+     "text": "Yes, I Yes, I do. I have one tower on my property right now and the configuration",
+     "raw_text": "Yes, I Yes, I do. I have one tower on my property right now and the configuration"
+    },
+    {
+     "t": "14:15",
+     "sec": 855,
+     "text": "that they want to do uh is to be so many feet away from this tower and then they",
+     "raw_text": "that they want to do uh is to be so many feet away from this tower and then they"
+    },
+    {
+     "t": "14:23",
+     "sec": 863,
+     "text": "want to go at an angle which uh understand that requires a special type tower I understand and then shoot up",
+     "raw_text": "want to go at an angle which uh understand that requires a special type tower I understand and then shoot up"
+    },
+    {
+     "t": "14:31",
+     "sec": 871,
+     "text": "into my upper six acres which would be another tower and the way it is right now I wouldn't be able to use my property whatsoever.",
+     "raw_text": "into my upper six acres which would be another tower and the way it is right now I wouldn't be able to use my property whatsoever."
+    },
+    {
+     "t": "14:40",
+     "sec": 880,
+     "text": "Now, they say, you know, 500 kV, and I've been studying a little bit online.",
+     "raw_text": "Now, they say, you know, 500 KV, and I've been studying a little bit online."
+    },
+    {
+     "t": "14:47",
+     "sec": 887,
+     "text": "Google knows everything, but you know, they say there's no health risk there.",
+     "raw_text": "Google knows everything, but you know, they say there's no health risk there."
+    },
+    {
+     "t": "14:52",
+     "sec": 892,
+     "text": "But, you know, if you really get into that, you know, it's affected cattle, it's affected, you know, if it's true.",
+     "raw_text": "But, you know, if you really get into that, you know, it's affected cattle, it's affected, you know, if it's true."
+    },
+    {
+     "t": "14:59",
+     "sec": 899,
+     "text": "That's the bottom line. I think through all of this with next and they wasn't",
+     "raw_text": "That's the bottom line. I think through all of this with next and they wasn't"
+    },
+    {
+     "t": "15:05",
+     "sec": 905,
+     "text": "clear. Nobody had a a clear mind and it seemed like we got so many hearsays and you know everybody had",
+     "raw_text": "clear. Nobody had a a clear mind and it seemed like we got so many hearsays and you know everybody had"
+    },
+    {
+     "t": "15:15",
+     "sec": 915,
+     "text": "an opinion and um you know it's just just it's wrong. It's wrong. You know I",
+     "raw_text": "an opinion and um you know it's just just it's wrong. It's wrong. You know I"
+    },
+    {
+     "t": "15:22",
+     "sec": 922,
+     "text": "served in the military. I knew who the enemy was. I come back home and my the enemy is my fellow citizens.",
+     "raw_text": "served in the military. I knew who the enemy was. I come back home and my the enemy is my fellow citizens."
+    },
+    {
+     "t": "15:38",
+     "sec": 938,
+     "text": "I'm sorry to ramble on.",
+     "raw_text": "I'm sorry to ramble on."
+    }
+   ],
+   "turn": 25,
+   "text": "Yes, I Yes, I do. I have one tower on my property right now and the configuration that they want to do uh is to be so many feet away from this tower and then they want to go at an angle which uh understand that requires a special type tower I understand and then shoot up into my upper six acres which would be another tower and the way it is right now I wouldn't be able to use my property whatsoever. Now, they say, you know, 500 kV, and I've been studying a little bit online. Google knows everything, but you know, they say there's no health risk there. But, you know, if you really get into that, you know, it's affected cattle, it's affected, you know, if it's true. That's the bottom line. I think through all of this with next and they wasn't clear. Nobody had a a clear mind and it seemed like we got so many hearsays and you know everybody had an opinion and um you know it's just just it's wrong. It's wrong. You know I served in the military. I knew who the enemy was. I come back home and my the enemy is my fellow citizens. I'm sorry to ramble on."
+  },
+  {
+   "speaker_id": "UNIDENTIFIED",
+   "speaker": "Unidentified speaker",
+   "role": "",
+   "t": "15:38",
+   "sec": 938,
+   "raw_text": "No, that's fine. And also, when you were making your statement earlier, you faded out for a while um when you when you said that um you recently retired and then you faded out and then you came back in at a different point. Was there some points you were making in that that we might have missed?",
+   "lines": [
+    {
+     "t": "15:38",
+     "sec": 938,
+     "text": "No, that's fine.",
+     "raw_text": "No, that's fine."
+    },
+    {
+     "t": "15:43",
+     "sec": 943,
+     "text": "And also, when you were making your statement earlier, you faded out for a while um when you when you said that um",
+     "raw_text": "And also, when you were making your statement earlier, you faded out for a while um when you when you said that um"
+    },
+    {
+     "t": "15:50",
+     "sec": 950,
+     "text": "you recently retired and then you faded out and then you came back in at a different point. Was there some points you were making in that that we might have missed?",
+     "raw_text": "you recently retired and then you faded out and then you came back in at a different point. Was there some points you were making in that that we might have missed?"
+    }
+   ],
+   "turn": 26,
+   "text": "No, that's fine. And also, when you were making your statement earlier, you faded out for a while um when you when you said that um you recently retired and then you faded out and then you came back in at a different point. Was there some points you were making in that that we might have missed?"
+  },
+  {
+   "speaker_id": "CLOWER",
+   "speaker": "Michael Clower",
+   "role": "Intervenor, Preston County landowner (remote)",
+   "t": "16:01",
+   "sec": 961,
+   "raw_text": "I don't think so. I don't think so. I really don't. I could ramble on and on, but I'm not going to do that. But thank good Lord above for Wii and what they're doing for us standing up and you guys standing up and uh I don't know how you do what you do, but I appreciate every one of you.",
+   "lines": [
+    {
+     "t": "16:01",
+     "sec": 961,
+     "text": "I don't think so. I don't think so. I really don't. I could ramble on and on, but I'm not going to do that. But thank",
+     "raw_text": "I don't think so. I don't think so. I really don't. I could ramble on and on, but I'm not going to do that. But thank"
+    },
+    {
+     "t": "16:09",
+     "sec": 969,
+     "text": "good Lord above for WATI and what they're doing for us standing up and you guys standing up and uh I don't know how you",
+     "raw_text": "good Lord above for Wii and what they're doing for us standing up and you guys standing up and uh I don't know how you"
+    },
+    {
+     "t": "16:18",
+     "sec": 978,
+     "text": "do what you do, but I appreciate every one of you.",
+     "raw_text": "do what you do, but I appreciate every one of you."
+    }
+   ],
+   "turn": 27,
+   "text": "I don't think so. I don't think so. I really don't. I could ramble on and on, but I'm not going to do that. But thank good Lord above for WATI and what they're doing for us standing up and you guys standing up and uh I don't know how you do what you do, but I appreciate every one of you."
+  },
+  {
+   "speaker_id": "UNIDENTIFIED",
+   "speaker": "Unidentified speaker",
+   "role": "",
+   "t": "16:18",
+   "sec": 978,
+   "raw_text": "Okay. Well, thank you very much.",
+   "lines": [
+    {
+     "t": "16:18",
+     "sec": 978,
+     "text": "Okay. Well, thank you very much.",
+     "raw_text": "Okay. Well, thank you very much."
+    }
+   ],
+   "turn": 28,
+   "text": "Okay. Well, thank you very much."
+  },
+  {
+   "speaker_id": "LANE",
+   "speaker": "Chairman Charlotte Lane",
+   "role": "Chairman, Public Service Commission of West Virginia",
+   "t": "16:23",
+   "sec": 983,
+   "raw_text": "Thank you, Mr. Clower. Are there others who wish to ask him questions?",
+   "lines": [
+    {
+     "t": "16:23",
+     "sec": 983,
+     "text": "Thank you, Mr. Clower. Are there others who wish to ask him questions?",
+     "raw_text": "Thank you, Mr. Clower. Are there others who wish to ask him questions?"
+    }
+   ],
+   "turn": 29,
+   "text": "Thank you, Mr. Clower. Are there others who wish to ask him questions?"
+  },
+  {
+   "speaker_id": "RANEY",
+   "speaker": "Commissioner Bill Raney",
+   "role": "Vice Chairman, PSC of West Virginia",
+   "t": "16:30",
+   "sec": 990,
+   "raw_text": "Madam Chairman, can you hear me?",
+   "lines": [
+    {
+     "t": "16:30",
+     "sec": 990,
+     "text": "Madam Chairman, can you hear me?",
+     "raw_text": "Madam Chairman, can you hear me?"
+    }
+   ],
+   "turn": 30,
+   "text": "Madam Chairman, can you hear me?"
+  },
+  {
+   "speaker_id": "LANE",
+   "speaker": "Chairman Charlotte Lane",
+   "role": "Chairman, Public Service Commission of West Virginia",
+   "t": "16:30",
+   "sec": 990,
+   "raw_text": "Yes. Yes. Go ahead, Commissioner Rainey.",
+   "lines": [
+    {
+     "t": "16:30",
+     "sec": 990,
+     "text": "Yes. Yes. Go ahead, Commissioner Raney.",
+     "raw_text": "Yes. Yes. Go ahead, Commissioner Rainey."
+    }
+   ],
+   "turn": 31,
+   "text": "Yes. Yes. Go ahead, Commissioner Raney."
+  },
+  {
+   "speaker_id": "RANEY",
+   "speaker": "Commissioner Bill Raney",
+   "role": "Vice Chairman, PSC of West Virginia",
+   "t": "16:35",
+   "sec": 995,
+   "raw_text": "Well, uh, Mr. Clower, usually I ask everybody tell us a little about about yourselves and you've already done that, but I thought your question regarding mineral rights was very, very curious and hope that is preserve it's preserved certainly in your statement, but preserved in your testimony as well. Thank you. Thank you, Madam Chairman.",
+   "lines": [
+    {
+     "t": "16:35",
+     "sec": 995,
+     "text": "Well, uh, Mr. Clower, usually I ask everybody tell us a little about about yourselves and you've already done that, but I thought your question regarding",
+     "raw_text": "Well, uh, Mr. Clower, usually I ask everybody tell us a little about about yourselves and you've already done that, but I thought your question regarding"
+    },
+    {
+     "t": "16:43",
+     "sec": 1003,
+     "text": "mineral rights was very, very curious and hope that is preserve it's preserved certainly in your statement, but preserved in your testimony as well.",
+     "raw_text": "mineral rights was very, very curious and hope that is preserve it's preserved certainly in your statement, but preserved in your testimony as well."
+    },
+    {
+     "t": "16:52",
+     "sec": 1012,
+     "text": "Thank you. Thank you, Madam Chairman.",
+     "raw_text": "Thank you. Thank you, Madam Chairman."
+    }
+   ],
+   "turn": 32,
+   "text": "Well, uh, Mr. Clower, usually I ask everybody tell us a little about about yourselves and you've already done that, but I thought your question regarding mineral rights was very, very curious and hope that is preserve it's preserved certainly in your statement, but preserved in your testimony as well. Thank you. Thank you, Madam Chairman."
+  },
+  {
+   "speaker_id": "LANE",
+   "speaker": "Chairman Charlotte Lane",
+   "role": "Chairman, Public Service Commission of West Virginia",
+   "t": "16:57",
+   "sec": 1017,
+   "raw_text": "Okay. Thank you. Are there any other questions of this witness? Well, thank you, Mr. Clower.",
+   "lines": [
+    {
+     "t": "16:57",
+     "sec": 1017,
+     "text": "Okay. Thank you. Are there any other questions of this witness? Well, thank you, Mr. Clower.",
+     "raw_text": "Okay. Thank you. Are there any other questions of this witness? Well, thank you, Mr. Clower."
+    }
+   ],
+   "turn": 33,
+   "text": "Okay. Thank you. Are there any other questions of this witness? Well, thank you, Mr. Clower."
+  },
+  {
+   "speaker_id": "CLOWER",
+   "speaker": "Michael Clower",
+   "role": "Intervenor, Preston County landowner (remote)",
+   "t": "17:05",
+   "sec": 1025,
+   "raw_text": "Yes, ma'am. You try to have a good weekend, guys. Thanks again.",
+   "lines": [
+    {
+     "t": "17:05",
+     "sec": 1025,
+     "text": "Yes, ma'am. You try to have a good weekend, guys. Thanks again.",
+     "raw_text": "Yes, ma'am. You try to have a good weekend, guys. Thanks again."
+    }
+   ],
+   "turn": 34,
+   "text": "Yes, ma'am. You try to have a good weekend, guys. Thanks again."
+  },
+  {
+   "speaker_id": "LANE",
+   "speaker": "Chairman Charlotte Lane",
+   "role": "Chairman, Public Service Commission of West Virginia",
+   "t": "17:05",
+   "sec": 1025,
+   "raw_text": "Okay. Thank you. Now, are there other are there other witnesses online?",
+   "lines": [
+    {
+     "t": "17:05",
+     "sec": 1025,
+     "text": "Okay. Thank you.",
+     "raw_text": "Okay. Thank you."
+    },
+    {
+     "t": "17:12",
+     "sec": 1032,
+     "text": "Now, are there other are there other witnesses online?",
+     "raw_text": "Now, are there other are there other witnesses online?"
+    }
+   ],
+   "turn": 35,
+   "text": "Okay. Thank you. Now, are there other are there other witnesses online?"
+  },
+  {
+   "speaker_id": "RYAN",
+   "speaker": "Ryan (Commission staff; surname not stated)",
+   "role": "Public Service Commission staff, managing remote participants",
+   "t": "17:21",
+   "sec": 1041,
+   "raw_text": "The other witnesses online.",
+   "lines": [
+    {
+     "t": "17:21",
+     "sec": 1041,
+     "text": "The other witnesses online.",
+     "raw_text": "The other witnesses online."
+    }
+   ],
+   "turn": 36,
+   "text": "The other witnesses online."
+  },
+  {
+   "speaker_id": "LANE",
+   "speaker": "Chairman Charlotte Lane",
+   "role": "Chairman, Public Service Commission of West Virginia",
+   "t": "17:28",
+   "sec": 1048,
+   "raw_text": "Okay. And so the witnesses that were scheduled for Monday have all now testified. Okay, with that we are now recessed or adjourned. Thank you all for coming this morning.",
+   "lines": [
+    {
+     "t": "17:28",
+     "sec": 1048,
+     "text": "Okay. And so the witnesses that were scheduled for Monday have all now testified.",
+     "raw_text": "Okay. And so the witnesses that were scheduled for Monday have all now testified."
+    },
+    {
+     "t": "17:46",
+     "sec": 1066,
+     "text": "Okay, with that we are now recessed or adjourned. Thank you all for coming this morning.",
+     "raw_text": "Okay, with that we are now recessed or adjourned. Thank you all for coming this morning."
+    }
+   ],
+   "turn": 37,
+   "text": "Okay. And so the witnesses that were scheduled for Monday have all now testified. Okay, with that we are now recessed or adjourned. Thank you all for coming this morning."
+  },
+  {
+   "speaker_id": "UNIDENTIFIED",
+   "speaker": "Unidentified speaker",
+   "role": "",
+   "t": "17:58",
+   "sec": 1078,
+   "raw_text": "Thank you.",
+   "lines": [
+    {
+     "t": "17:58",
+     "sec": 1078,
+     "text": "Thank you.",
+     "raw_text": "Thank you."
+    }
+   ],
+   "turn": 38,
+   "text": "Thank you."
+  }
+ ]
+}
