@@ -1,4 +1,4 @@
-// POST /api/ask: one step of the question-answering loop.
+// POST /api/ask: one step of the question-answering loop (called from src/worker.ts).
 //
 // The browser holds the transcripts and runs the searches itself (public/js/search.js).
 // This function only forwards the conversation to Claude with a fixed model, system
@@ -8,8 +8,9 @@
 
 import Anthropic from "@anthropic-ai/sdk";
 
-interface Env {
+export interface Env {
   ANTHROPIC_API_KEY: string;
+  ASSETS: Fetcher;
 }
 
 const MODEL = "claude-opus-5-5";
@@ -90,7 +91,7 @@ function validate(messages: unknown): string | null {
   return null;
 }
 
-export const onRequestPost: PagesFunction<Env> = async ({ request, env }) => {
+export async function handleAsk(request: Request, env: Env): Promise<Response> {
   if (!env.ANTHROPIC_API_KEY) return bad("The site's ANTHROPIC_API_KEY secret is not set.", 500);
   const raw = await request.text();
   if (raw.length > MAX_BODY_BYTES) return bad("request too large", 413);
@@ -125,4 +126,4 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env }) => {
     if (err instanceof Anthropic.APIError) return bad(`AI service error: ${err.message}`, 502);
     return bad("Could not reach the AI service.", 502);
   }
-};
+}

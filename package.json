@@ -3,9 +3,10 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "npx wrangler@4.49.1 pages dev public",
+    "dev": "npx wrangler@4.156.2 dev",
     "typecheck": "tsc --noEmit",
-    "export-data": "python3 pipeline/export_web.py"
+    "export-data": "python3 pipeline/export_web.py",
+    "deploy": "npx wrangler@4.156.2 deploy"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "1.4.0"

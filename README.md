@@ -55,10 +55,10 @@ To add a day: extract the caption docx (`pipeline/extract.py in.docx raw.txt`), 
 
 ## The website
 
-A Cloudflare Pages site in `public/` with one Pages Function, `functions/api/ask.ts`.
+A Cloudflare Worker (`src/worker.ts`) that serves the static site in `public/` and one API route, `/api/ask` (`src/ask.ts`). Cloudflare builds it from `main` with the deploy command `npx wrangler deploy`.
 
 - **Search words only** runs a keyword search in the browser over `public/data/turns.json`. No AI, no cost.
-- **Ask** sends the question to `/api/ask`, which passes it to Claude (`claude-opus-5-5`) with a fixed system prompt and two tools. Claude asks for searches, the browser runs them and sends back the matching turns, and Claude finishes with a short summary plus the turn ids and excerpts it relied on. The page shows each excerpt only if it matches the transcript word for word (otherwise the whole turn), with its day, time and speaker. The API key stays on the server as a Cloudflare secret.
+- **Ask** sends the question to `/api/ask`, which passes it to Claude (`claude-opus-5-5`) with a fixed system prompt and two tools. Claude asks for searches, the browser runs them and sends back the matching turns, and Claude finishes with a short summary plus the turn ids and excerpts it relied on. The page shows each excerpt only if it matches the transcript word for word (otherwise the whole turn), with its day, time and speaker. The API key stays on the server as a Cloudflare secret named `ANTHROPIC_API_KEY`.
 - If `public/data/videos.json` has a YouTube link for a day, each time becomes a link to that moment in the video.
 - Server-side fallback (`fallbacks: "default"`) is on, so if Claude declines a question, the API retries it on Anthropic's recommended fallback model.
 
