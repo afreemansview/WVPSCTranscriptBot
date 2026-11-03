@@ -1,4 +1,4 @@
-name = "wvpsctranscriptbot"
+name = "wvpsc-transcripts"
 main = "src/worker.ts"
 compatibility_date = "2025-10-01"
 compatibility_flags = ["nodejs_compat"]
