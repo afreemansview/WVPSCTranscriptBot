@@ -53,6 +53,19 @@ pipeline/build_all.sh
 
 To add a day: extract the caption docx (`pipeline/extract.py in.docx raw.txt`), split it (`pipeline/seg2.py raw.txt segments.json segments.txt "<title>"`), write `speakers.txt`, add a row to `data/days.tsv`, and run `build_all.sh`. `pipeline/review.py segments.json speakers.txt LO HI` prints the text around each speaker change, which helps catch annotations placed one segment early or late.
 
+## The website
+
+A Cloudflare Pages site in `public/` with one Pages Function, `functions/api/ask.ts`.
+
+- **Search words only** runs a keyword search in the browser over `public/data/turns.json`. No AI, no cost.
+- **Ask** sends the question to `/api/ask`, which passes it to Claude (`claude-opus-5-5`) with a fixed system prompt and two tools. Claude asks for searches, the browser runs them and sends back the matching turns, and Claude finishes with a short summary plus the turn ids and excerpts it relied on. The page shows each excerpt only if it matches the transcript word for word (otherwise the whole turn), with its day, time and speaker. The API key stays on the server as a Cloudflare secret.
+- If `public/data/videos.json` has a YouTube link for a day, each time becomes a link to that moment in the video.
+- Server-side fallback (`fallbacks: "default"`) is on, so if Claude declines a question, the API retries it on Anthropic's recommended fallback model.
+
+After rebuilding the transcripts, refresh the site's data with `python3 pipeline/export_web.py` and commit `public/data/turns.json`.
+
+Local run: `npm install`, put `ANTHROPIC_API_KEY=...` in `.dev.vars` (gitignored), then `npm run dev` and open http://localhost:8788.
+
 ## Known uncertainties
 
 - About 15 turns are "Unidentified speaker".

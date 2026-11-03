@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MARL Hearing Transcripts</title>
+  <meta name="description" content="Ask questions about the WV Public Service Commission hearing on the MARL transmission line and get exact quotes with day, time and speaker.">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <h1>MARL hearing transcripts</h1>
+    <p class="lede">West Virginia Public Service Commission evidentiary hearing on the Mid-Atlantic Resiliency Link 500 kV line, October 26 to 30, 2026. Ask a question in plain words, or search for exact words.</p>
+  </header>
+  <main>
+    <form id="ask-form">
+      <label for="q">Your question</label>
+      <textarea id="q" rows="2" maxlength="900" placeholder="What did landowners say about property values?" required></textarea>
+      <div class="filters">
+        <label>Day <select id="day"><option value="">All days</option></select></label>
+        <label>Speaker <input id="speaker" list="speakers" placeholder="Any speaker"></label>
+        <datalist id="speakers"></datalist>
+      </div>
+      <div class="actions">
+        <button id="ask-btn" type="submit">Ask</button>
+        <button id="search-btn" type="button" class="secondary">Search words only</button>
+      </div>
+    </form>
+    <p id="status" role="status" aria-live="polite"></p>
+    <section id="answer"></section>
+    <section id="results"></section>
+  </main>
+  <footer>
+    <p>Text comes from the YouTube auto-captions of the hearing live stream, with speakers added and misheard words corrected by hand. Captions can still contain errors; the official transcript is the record. Times are positions in each day's live stream.</p>
+  </footer>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
